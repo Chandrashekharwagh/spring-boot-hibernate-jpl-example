@@ -1,4 +1,4 @@
-# Spring Boot Hibernate JPL Exampple with H2 Database
+# Spring Boot Hibernate JPL Example with H2 Database
 
 This example demonstrates the integration of Spring Boot with Hibernate JPL using H2 as an in-memory database for development and testing purposes.
 
@@ -159,3 +159,7 @@ For more detailed information on Spring Boot and Hibernate JPA, refer to the off
 - [Spring Boot Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 - [Spring Data JPA Documentation](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)
 - [H2 Database Engine](https://www.h2database.com/html/main.html)
+
+## License
+
+This project is licensed under the MIT License - see the `LICENSE.md` file for details.
